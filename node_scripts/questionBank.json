@@ -1,0 +1,539 @@
+{
+  "category": {
+    "behavioral": [
+      {
+        "htmlContent": "Give me an example of the project or initiative that you started on your own. It can be a non&minus;business one. What prompted you to get started?'"
+      },
+      {
+        "htmlContent": "Tell me about a time you had to work on several projects at once. How did you handle this?"
+      },
+      {
+        "htmlContent": "Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?"
+      },
+      {
+        "htmlContent": "Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?"
+      },
+      {
+        "htmlContent": "Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?"
+      },
+      {
+        "htmlContent": "Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?"
+      },
+      {
+        "htmlContent": "Give an example of an important project goal you reached and how you achieved it."
+      },
+      {
+        "htmlContent": "Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way"
+      },
+      {
+        "htmlContent": "Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?"
+      },
+      {
+        "htmlContent": "Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?"
+      },
+      {
+        "htmlContent": "Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?"
+      },
+      {
+        "htmlContent": "Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?"
+      },
+      {
+        "htmlContent": "Tell me about yourself."
+      },
+      {
+        "htmlContent": "Tell me about your experience at 100Devs."
+      },
+      {
+        "htmlContent": "What do you know about our company?"
+      },
+      {
+        "htmlContent": "Why do you want to work for us?"
+      },
+      {
+        "htmlContent": "Why are you interested in this opportunity?"
+      },
+      {
+        "htmlContent": "Tell me about your dream job?  What do you really want to do with your career?"
+      },
+      {
+        "htmlContent": "Tell me a time when you failed."
+      },
+      {
+        "htmlContent": "What do you read on a regular basis?"
+      },
+      {
+        "htmlContent": "What's some critical feedback you've gotten recently?"
+      },
+      {
+        "htmlContent": "Do you have any questions?"
+      }
+    ],
+    "technical": {
+      "subcategory": {
+        "html": [
+          {
+            "htmlContent": "What does a doctype do?"
+          },
+          {
+            "htmlContent": "How do you serve a page with content in multiple languages?"
+          },
+          {
+            "htmlContent": "What kind of things must you be wary of when design or developing for multilingual sites?"
+          },
+          {
+            "htmlContent": "What are <code>data&minus;</code> attributes good for?"
+          },
+          {
+            "htmlContent": "Consider HTML5 as an open web platform. What are the building blocks of HTML5?"
+          },
+          {
+            "htmlContent": "Describe the difference between a <code>cookie</code>, <code>sessionStorage</code> and <code>localStorage</code>."
+          },
+          {
+            "htmlContent": "Describe the difference between <code>&lt;script&gt;</code>, <code>&lt;script async&gt;</code> and <code>&lt;script defer&gt;</code>."
+          },
+          {
+            "htmlContent": "Why is it generally a good idea to position CSS <code>&lt;link&gt;s</code> between <code>&lt;head&gt;&lt;&#x2F;head&gt;</code> and JS <code>&lt;script&gt;s</code> just before <code>&lt;&#x2F;body&gt;</code>? Do you know any exceptions?"
+          },
+          {
+            "htmlContent": "What is progressive rendering?"
+          },
+          {
+            "htmlContent": "Why would you use a <code>srcset</code> attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute."
+          },
+          {
+            "htmlContent": "Have you used different HTML templating languages before?"
+          }
+        ],
+        "css": [
+          {
+            "htmlContent": "What is CSS selector specificity and how does it work?"
+          },
+          {
+            "htmlContent": "What's the difference between 'resetting' and 'normalizing' CSS? Which would you choose, and why?"
+          },
+          {
+            "htmlContent": "Describe floats and how they work."
+          },
+          {
+            "htmlContent": "Describe <code>z&minus;index</code> and how stacking context is formed."
+          },
+          {
+            "htmlContent": "Describe BFC (Block Formatting Context) and how it works."
+          },
+          {
+            "htmlContent": "What are the various clearing techniques and which is appropriate for what context?"
+          },
+          {
+            "htmlContent": "Explain CSS sprites, and how you would implement them on a page or site."
+          },
+          {
+            "htmlContent": "How would you approach fixing browser&minus;specific styling issues?"
+          },
+          {
+            "htmlContent": "How do you serve your pages for feature&minus;constrained browsers? What techniques&#x2F;processes do you use?"
+          },
+          {
+            "htmlContent": "What are the different ways to visually hide content (and make it available only for screen readers)?"
+          },
+          {
+            "htmlContent": "Have you ever used a grid system, and if so, what do you prefer?"
+          },
+          {
+            "htmlContent": "Have you used or implemented media queries or mobile specific layouts&#x2F;CSS?"
+          },
+          {
+            "htmlContent": "Are you familiar with styling SVG?"
+          },
+          {
+            "htmlContent": "Can you give an example of an <code>@media</code> property other than screen?"
+          },
+          {
+            "htmlContent": "What are some of the 'gotchas' for writing efficient CSS?"
+          },
+          {
+            "htmlContent": "What are the advantages&#x2F;disadvantages of using CSS preprocessors?"
+          },
+          {
+            "htmlContent": "Describe what you like and dislike about the CSS preprocessors you have used."
+          },
+          {
+            "htmlContent": "How would you implement a web design comp that uses non&minus;standard fonts?"
+          },
+          {
+            "htmlContent": "Explain how a browser determines what elements match a CSS selector."
+          },
+          {
+            "htmlContent": "Describe pseudo&minus;elements and discuss what they are used for."
+          },
+          {
+            "htmlContent": "Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models."
+          },
+          {
+            "htmlContent": "What does <code>* { box&minus;sizing: border&minus;box; }</code> do? What are its advantages?"
+          },
+          {
+            "htmlContent": "What is the CSS display property and can you give a few examples of its use?"
+          },
+          {
+            "htmlContent": "What's the difference between inline and <code>inline&minus;block</code>?"
+          },
+          {
+            "htmlContent": "What's the difference between a relative, fixed, absolute and statically positioned element?"
+          },
+          {
+            "htmlContent": "What existing CSS frameworks have you used locally, or in production? How would you change&#x2F;improve them?"
+          },
+          {
+            "htmlContent": "Have you played around with the new CSS </code>flexbox</code> or <code>grid</code> specs?"
+          },
+          {
+            "htmlContent": "Can you explain the difference between coding a web site to be responsive versus using a mobile&minus;first strategy?"
+          },
+          {
+            "htmlContent": "How is responsive design different from adaptive design?"
+          },
+          {
+            "htmlContent": "Have you ever worked with retina graphics? If so, when and what techniques did you use?"
+          },
+          {
+            "htmlContent": "Is there any reason you'd want to use <code>translate()</code> instead of absolute positioning, or vice&minus;versa? And why?"
+          }
+        ],
+        "javaScript": [
+          {
+            "htmlContent": "Explain event delegation."
+          },
+          {
+            "htmlContent": "What's the difference between <code>.call</code> and <code>.apply</code>?"
+          },
+          {
+            "htmlContent": "Explain how <code>this</code> works in JavaScript."
+          },
+          {
+            "htmlContent": "Explain how prototypal inheritance works."
+          },
+          {
+            "htmlContent": "What do you think of AMD vs CommonJS?"
+          },
+          {
+            "htmlContent": "Explain why the following doesn't work as an IIFE: function <code>foo(){ }();</code>. What needs to be changed to properly make it an IIFE?"
+          },
+          {
+            "htmlContent": "What's the difference between a variable that is: <code>null</code>, <code>undefined</code> or undeclared? How would you go about checking for any of these states?"
+          },
+          {
+            "htmlContent": "What is a closure, and how/why would you use one?"
+          },
+          {
+            "htmlContent": "Can you describe the main difference between a <code>.forEach</code> loop and a <code>.map()</code> loop and why you would pick one versus the other?"
+          },
+          {
+            "htmlContent": "What's a typical use case for anonymous functions?"
+          },
+          {
+            "htmlContent": "How do you organize your code? (module pattern, classical inheritance?)"
+          },
+          {
+            "htmlContent": "What's the difference between host objects and native objects?"
+          },
+          {
+            "htmlContent": "Difference between: <code>function Person(){}</code>, <code>var person = Person()</code>, and <code>var person = new Person()</code>?"
+          },
+          {
+            "htmlContent": "Explain <code>Function.prototype.bind</code>."
+          },
+          {
+            "htmlContent": "When would you use <code>document.write()</code>?"
+          },
+          {
+            "htmlContent": "What's the difference between feature detection, feature inference, and using the UA string?"
+          },
+          {
+            "htmlContent": "Explain Ajax in as much detail as possible."
+          },
+          {
+            "htmlContent": "What are the advantages and disadvantages of using Ajax?"
+          },
+          {
+            "htmlContent": "Explain how JSONP works (and how it's not really Ajax)."
+          },
+          {
+            "htmlContent": "Have you ever used JavaScript templating? If so, what libraries have you used?"
+          },
+          {
+            "htmlContent": "Explain 'hoisting'."
+          },
+          {
+            "htmlContent": "Describe event bubbling."
+          },
+          {
+            "htmlContent": "What's the difference between an <code>attribute</code> and a <code>property</code>?"
+          },
+          {
+            "htmlContent": "Why is extending built&minus;in JavaScript objects not a good idea?"
+          },
+          {
+            "htmlContent": "Difference between document <code>load</code> event and document <code>DOMContentLoaded</code> event?"
+          },
+          {
+            "htmlContent": "What is the difference between <code>==</code> and <code>===</code>?"
+          },
+          {
+            "htmlContent": "Explain the same&minus;origin policy with regards to JavaScript."
+          },
+          {
+            "htmlContent": "Make this work: <code>duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]</code>"
+          },
+          {
+            "htmlContent": "Why is it called a Ternary expression, what does the word \"Ternary\" indicate?"
+          },
+          {
+            "htmlContent": "What is <code>use strict;</code>? what are the advantages and disadvantages to using it?"
+          },
+          {
+            "htmlContent": "Create a for loop that iterates up to <code>100</code> while outputting \"fizz\" at multiples of <code>3</code>, \"buzz\" at multiples of <code>5</code> and \"fizzbuzz\" at multiples of <code>3</code> and <code>5</code>"
+          },
+          {
+            "htmlContent": "Why is it, in general, a good idea to leave the global scope of a website as&minus;is and never touch it?"
+          },
+          {
+            "htmlContent": "Why would you use something like the <code>load</code> event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?"
+          },
+          {
+            "htmlContent": "Explain what a single page app is and how to make one SEO&minus;friendly."
+          },
+          {
+            "htmlContent": "What is the extent of your experience with Promises and&#x2F;or their polyfills?"
+          },
+          {
+            "htmlContent": "What are the pros and cons of using Promises instead of callbacks?"
+          },
+          {
+            "htmlContent": "What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?"
+          },
+          {
+            "htmlContent": "What tools and techniques do you use debugging JavaScript code?"
+          },
+          {
+            "htmlContent": "What language constructions do you use for iterating over object properties and array items?"
+          },
+          {
+            "htmlContent": "Explain the difference between mutable and immutable objects."
+          },
+          {
+            "htmlContent": "Explain the difference between synchronous and asynchronous functions."
+          },
+          {
+            "htmlContent": "What is the event loop? What is the difference between call stack and task queue?"
+          },
+          {
+            "htmlContent": "Explain the differences on the usage of foo between function <code>foo() {}</code> and <code>var foo = function() {}</code>"
+          },
+          {
+            "htmlContent": "What are the differences between variables created using <code>let</code>, <code>var</code> or <code>const?</code>"
+          },
+          {
+            "htmlContent": "What are the differences between ES6 class and ES5 function constructors?"
+          },
+          {
+            "htmlContent": "Can you offer a use case for the new arrow =&gt; function syntax? How does this new syntax differ from other functions?"
+          },
+          {
+            "htmlContent": "What advantage is there for using the arrow syntax for a method in a constructor?"
+          },
+          {
+            "htmlContent": "What is the definition of a higher&minus;order function?"
+          },
+          {
+            "htmlContent": "Can you give an example for destructuring an object or an array?"
+          },
+          {
+            "htmlContent": "ES6 Template Literals offer a lot of flexibility in generating strings, can you give an example?"
+          },
+          {
+            "htmlContent": "Can you give an example of a curry function and why this syntax offers an advantage?"
+          },
+          {
+            "htmlContent": "What are the benefits of using spread syntax and how is it different from rest syntax?"
+          },
+          {
+            "htmlContent": "How can you share code between files?"
+          },
+          {
+            "htmlContent": "Why might you want to create static class members?"
+          },
+          {
+            "htmlContent": "Can you name two programming paradigms important for JavaScript app developers?"
+          },
+          {
+            "htmlContent": "What is functional programming?"
+          },
+          {
+            "htmlContent": "What is the difference between classical inheritance and prototypal inheritance?"
+          },
+          {
+            "htmlContent": "What are the pros and cons of functional programming vs object&minus;oriented programming?"
+          },
+          {
+            "htmlContent": "What are two&minus;way data binding and one&minus;way data flow, and how are they different?"
+          },
+          {
+            "htmlContent": "What is asynchronous programming, and why is it important in JavaScript?"
+          }
+        ],
+        "nodeJs": [
+          {
+            "htmlContent": "What is Node.js? Where can you use it?"
+          },
+          {
+            "htmlContent": "Why use Node.js?"
+          },
+          {
+            "htmlContent": "What are the features of Node.js?"
+          },
+          {
+            "htmlContent": "How do you update <code>npm</code> to a new version in Node.js?"
+          },
+          {
+            "htmlContent": "Why is Node.js Single&minus;threaded?"
+          },
+          {
+            "htmlContent": "Explain callback in Node.js."
+          },
+          {
+            "htmlContent": "What is callback hell in Node.js?"
+          },
+          {
+            "htmlContent": "How do you prevent&#x2F;fix callback hell?"
+          },
+          {
+            "htmlContent": "Explain the role of REPL in Node.js."
+          },
+          {
+            "htmlContent": "Name the types of API functions in Node.js."
+          },
+          {
+            "htmlContent": "What are the functionalities of <code>npm</code> in Node.js?"
+          },
+          {
+            "htmlContent": "What is the difference between Node.js and Ajax?"
+          },
+          {
+            "htmlContent": "What are “streams” in Node.js? Explain the different types of streams present in Node.js."
+          },
+          {
+            "htmlContent": "Explain chaining in Node.js."
+          },
+          {
+            "htmlContent": "What are Globals in Node.js?"
+          },
+          {
+            "htmlContent": "What is Event&minus;driven programming?"
+          },
+          {
+            "htmlContent": "What is the Event loop in Node.js? And How does it work?"
+          },
+          {
+            "htmlContent": "What is the purpose of <code>module.exports</code> in Node.js?"
+          },
+          {
+            "htmlContent": "What is the difference between Asynchronous and Non&minus;blocking?"
+          },
+          {
+            "htmlContent": "What is Tracing in Node.js?"
+          },
+          {
+            "htmlContent": "How will you debug an application in Node.js?"
+          },
+          {
+            "htmlContent": "Difference between <code>setImmediate()</code> vs <code>setTimeout()</code>?"
+          },
+          {
+            "htmlContent": "What is <code>process.nextTick()</code>."
+          },
+          {
+            "htmlContent": "What is <code>package.json</code>? What is it used for?"
+          },
+          {
+            "htmlContent": "What is <code>libuv</code>?"
+          },
+          {
+            "htmlContent": "What are some of the most popular modules of Node.js?"
+          },
+          {
+            "htmlContent": "What is <code>EventEmitter</code> in Node.js?"
+          }
+        ],
+        "csTheory": [
+          {
+            "htmlContent": "What is recursion and give an example using javascript?"
+          },
+          {
+            "htmlContent": "What are types?"
+          },
+          {
+            "htmlContent": "What are data structures?"
+          },
+          {
+            "htmlContent": "What is an algorithm? "
+          },
+          {
+            "htmlContent": "What is scope &#x2F; lexical scope in javascript?"
+          },
+          {
+            "htmlContent": "What is polymorphism?"
+          },
+          {
+            "htmlContent": "What is encapsulation?"
+          },
+          {
+            "htmlContent": "What is a Linked List?"
+          },
+          {
+            "htmlContent": "What is a Doubly Linked List?"
+          },
+          {
+            "htmlContent": "What is a Queue?"
+          },
+          {
+            "htmlContent": "What is a Stack?"
+          },
+          {
+            "htmlContent": "What is a Hash Table?"
+          },
+          {
+            "htmlContent": "What is a Heap?"
+          },
+          {
+            "htmlContent": "What is a Trie?"
+          },
+          {
+            "htmlContent": "What is a Tree?"
+          },
+          {
+            "htmlContent": "What is a Binary Search Tree?"
+          },
+          {
+            "htmlContent": "What is a Disjoint Set?"
+          },
+          {
+            "htmlContent": "What is a Bloom Filter?"
+          },
+          {
+            "htmlContent": "Demonstrate Bubble Sort and explain when you might use it."
+          },
+          {
+            "htmlContent": "Demonstrate Insertion Sort and explain when you might use it."
+          },
+          {
+            "htmlContent": "Demonstrate Merge Sort and explain when you might use it."
+          },
+          {
+            "htmlContent": "Demonstrate Quicksort and explain when you might use it."
+          }
+        ]
+      }
+    }
+  }
+}
