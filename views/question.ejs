@@ -8,9 +8,10 @@
     <title>Bankit</title>
 </head>
 <body>
-    <h1>Random Question</h1>
-    <p id="question-area"><%= question.question %></p>
-    <button class="btn btn-primary" id="new-question-button">Get New Question</button>
+    <div class="w-full flex justify-center">
+        <%- include('questionCard') %>
+    </div>
+
     <script src="/js/question.js"></script>
 </body>
 </html>
