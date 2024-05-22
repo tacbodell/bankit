@@ -1,19 +1,20 @@
 const mongoose = require('mongoose')
 
 const QuestionSchema = new mongoose.Schema({
-  question: {
+  questionId: {
+    type: Number,
+    unique: true,
+    required: true,
+  },
+  questionText: {
     type: String,
     required: true,
   },
   answer: {
-    type: String,
-    required: true,
-    default: "xxxxxxxx"
+    type: String
   },
   author: {
-    type: String,
-    required: true,
-    default: "Anonymous User"
+    type: String
   },
   dateAdded: {
     type: Date,
@@ -22,8 +23,6 @@ const QuestionSchema = new mongoose.Schema({
   },
   tags: {
     type: Array,
-    required: true,
-    default: "unspecified"
   }
 })
 

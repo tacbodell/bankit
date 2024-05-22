@@ -27,7 +27,8 @@ console.log("Database updated successfully");
 // creates and returns a new object matching Question schema
 async function pushNewEntry(q, an, au, t) {
     await Question.create({
-      question: q,
+      questionId: a,
+      questionText: q,
       answer: an,
       author: au,
       tags: t
