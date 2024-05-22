@@ -1,10 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 h1{
     color: red;
-}
-.completed{
-    text-decoration: line-through;
-    color: gray;
-}
-.not{
-    text-decoration: underline;
 }
