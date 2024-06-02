@@ -7,5 +7,5 @@ async function getNewQuestion() {
     const response = await fetch('/question/newquestion')
     const question = await response.json()
 
-    questionArea.innerText = question.question
+    questionArea.innerText = question.questionText
 }
