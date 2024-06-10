@@ -18,6 +18,18 @@ module.exports = {
             console.error(err);
             res.render('/errors/error.ejs')
         }
+    },
+    putAnswer: async (req,res) => {
+        try {
+            let answer = req.body.answer
+            await question.findOneAndUpdate(
+                { _id: req.body.id }, 
+                { $push: { answers: answer  } },
+            );
+        } catch (error) {
+            console.error(error)
+            res.render('error/500')
+        }
     }
 }
 
