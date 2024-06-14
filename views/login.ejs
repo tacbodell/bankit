@@ -7,8 +7,10 @@
     <title>Bankit</title>
 </head>
 <body>
-    <h1>Welcome to Bankit!</h1>
-    <a href="/login"> Login</a>
-    <a href="/signup"> Sign up</a>
+    <form action="/login" method="POST">
+        <input type="email" name="email" placeholder="Email">
+        <input type="password" name="password" placeholder="Password">
+        <input type="submit">
+    </form>
 </body>
 </html>
