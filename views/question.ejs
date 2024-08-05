@@ -28,8 +28,11 @@
             <div class="card-body items-center text-center">
                 <h3>Answers:</h3>
                 <ol>
-                    <% for (let i = 0; i < question.answers.length; i++) {%>
-                        <li><span><%= question.answers[i].author %>: <%= question.answers[i].answerText %></span></li>
+                    <% for (let i = 0; i < answers.length; i++) {%>
+                        <li><span><%= answers[i].author %>: <%= answers[i].answerText %></span></li>
+                        <div class="card-actions justify-end">
+                            <button class="btn btn-primary" id="new-question-button">Like</button>
+                        </div>
                     <% } %>
                 </ol>
             </div>
